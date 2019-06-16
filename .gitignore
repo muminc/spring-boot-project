@@ -1,0 +1,3 @@
+# Project exclude paths
+/custom-starter-app/target/
+/spring-boot-app/target/
