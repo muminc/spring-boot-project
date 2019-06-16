@@ -27,7 +27,7 @@
 
 
     <modules>
-        <module>custom-starter-app</module>
+        <module>custom-starter-project</module>
         <module>spring-boot-app</module>
     </modules>
 

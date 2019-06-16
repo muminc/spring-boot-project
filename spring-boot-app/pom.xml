@@ -23,7 +23,7 @@
 
         <dependency>
             <groupId>com.choudhury.spring.boot.project</groupId>
-            <artifactId>custom-starter-app</artifactId>
+            <artifactId>custom-starter-project</artifactId>
             <version>1.0.0-SNAPSHOT</version>
         </dependency>
 
